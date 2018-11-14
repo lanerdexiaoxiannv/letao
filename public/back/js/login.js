@@ -41,6 +41,7 @@ $(function(){
     }
 
   });
+  
 
   $('#form').on("success.form.bv",function(e){
     e.preventDefault();
